@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Stas
+- 👀 I’m want to be Jounior Python developer
+- 🌱 I’m currently learning Python
